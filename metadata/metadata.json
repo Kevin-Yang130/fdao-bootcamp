@@ -1,0 +1,15 @@
+{
+	"attributes" : [
+    	{
+        	"trait_type" : "Food",
+        	"value" : "Pancake"
+    	},
+    	{
+        	"trait_type" : "Accessory",
+        	"value" : "Glasses"
+    	}
+	],
+	"description" : "I'm hungry",
+	"image" : "Qmd2W1vBNLXrF7XFm7tcE42WuHahfQCpKRL96Ew6JPvpVH",
+	"name" : "Mini Pekka's fav"
+}
